@@ -1,6 +1,6 @@
 # 👩‍💻 Karla Costa
 
-Sou **Engenheira Qualidade Senior**, com mais de 10 anos de experiência na área de qualidade.   
+Sou **Engenheira de Qualidade Sênior**, com mais de 10 anos de experiência na área de qualidade.   
 
 Atuo há mais de 5 anos com **automação de testes end-to-end**, utilizando **Cypress**, mas também tenho anos de experiência com Robot Framework.   
 
