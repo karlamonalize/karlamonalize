@@ -4,7 +4,7 @@ Sou **Engenheira Qualidade Senior**, com mais de 10 anos de experiência na áre
 
 Atuo há mais de 5 anos com **automação de testes end-to-end**, utilizando **Cypress**, mas também tenho anos de experiência com Robot Framework.   
 
-Minhas experiências mais recentes amplificaram meus conhecimentos com **testes de API** utilizando **Postman** e também **testes de performance** utilizando **K6**.   
+Minhas experiências mais recentes ampliaram meus conhecimentos com **testes de API** utilizando **Postman** e também **testes de performance** utilizando **K6**.   
 
 Nos meus desafios sempre busco foco em qualidade ponta a ponta, utilizando práticas de observabilidade, monitoramento e análise de logs para apoiar a detecção e investigação de falhas.   
 
