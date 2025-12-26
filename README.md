@@ -30,7 +30,7 @@ Automação de testes de regressão e validações funcionais em aplicações we
 Validação de serviços REST utilizando Postman.  
 
 🔹 **Testes de Performance**   
-Implementação de testes de carga orientados a rate limit para identificar gargalos e limites operacionais do sistema.  
+Implementação de testes de carga com K6, orientados a rate limit para identificar gargalos e limites operacionais do sistema.  
 
 ---
 
