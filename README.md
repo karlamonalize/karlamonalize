@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👩‍💻 Karla Costa
 
-<!--
-**karlamonalize/karlamonalize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Engenheira Qualidade Senior**, com mais de 10 anos de experiência na área de qualidade.   
 
-Here are some ideas to get you started:
+Atuo há mais de 5 anos com **automação de testes end-to-end**, utilizando **Cypress**, mas também tenho anos de experiência com Robot Framework.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minhas experiências mais recentes amplificaram meus conhecimentos com **testes de API** utilizando **Postman** e também **testes de performance** utilizando **K6**.   
+
+Nos meus desafios sempre busco foco em qualidade ponta a ponta, utilizando práticas de observabilidade, monitoramento e análise de logs para apoiar a detecção e investigação de falhas.   
+
+---
+
+## 🛠️ Principais Tecnologias
+
+- Cypress   
+- K6
+- Postman     
+- Docker   
+- GitLab CI/CD   
+- JavaScript     
+
+---
+
+## 📂 Projetos Atuais
+
+🔹 **Automação E2E com Cypress**   
+Automação de testes de regressão e validações funcionais em aplicações web.    
+
+🔹 **Testes de API**    
+Validação de serviços REST utilizando Postman.  
+
+🔹 **Testes de Performance**   
+Implementação de testes de carga orientados a rate limit para identificar gargalos e limites operacionais do sistema.  
+
+---
+
+## 🎯 Objetivo Profissional
+
+Contribuir com times de tecnologia por meio de testes ágeis, participando de todo o processo de desenvolvimento e buscando, assim, a eficácia na garantia da qualidade do produto.   
+
+---
+
+## 🔗 Conecte-se comigo
+
+- 🌐 GitHub: https://github.com/karlamonalize 
+- 💼 LinkedIn: https://www.linkedin.com/in/karlacostaa
